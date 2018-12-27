@@ -1,3 +1,1 @@
-# HTML DEMO
-This is a html demo site
-## Steps to run
+This is a School Website using Bootstrap

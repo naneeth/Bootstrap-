@@ -1,1 +1,1 @@
-This is a School Website using Bootstrap
+https://naneeth.github.io/Bootstrap-/

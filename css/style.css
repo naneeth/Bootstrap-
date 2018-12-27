@@ -1,5 +1,8 @@
 
 /*-- Logo */
+.body{
+    background-color: blue;
+}
 
 .logo{
     width: 4rem;
@@ -39,8 +42,10 @@ navbar-brand p{
 .jumbotron{
     text-align: center;
 }
+/*-- Footer */
 footer{
-    margin-top: 3rem;}
+    margin-top: 3rem;
+}
 
 /*-- Map  */
 .map-container{
@@ -54,6 +59,5 @@ footer{
     top:0;
     margin-bottom: 0;
     height:16rem;
-    width:16rem;
-    
+    width:16rem;  
     }

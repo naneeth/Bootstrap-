@@ -1,0 +1,59 @@
+
+/*-- Logo */
+
+.logo{
+    width: 4rem;
+    height: 4rem;
+    margin-bottom: 0;
+    
+}
+
+    /*-- Navigation Bar */
+
+.navbar-brand p{ 
+font-family: 'ZCOOL XiaoWei', serif;
+padding: 0;
+}
+
+.nav-item{
+    padding-left: 3rem;
+    color: aqua;
+}
+.nav-link{
+    color: aqua;
+}
+navbar-brand p{
+    font-family: 'Charm', cursive;
+}
+/*-- Hovering Nav bar */
+.nav-item :hover{
+    background-color: orange;
+}
+
+/*-- Carousel */
+#carousel{
+    padding-top: 8rem;}
+
+
+/*-- Jumbotron */
+.jumbotron{
+    text-align: center;
+}
+footer{
+    margin-top: 3rem;}
+
+/*-- Map  */
+.map-container{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+    }
+    .map-container iframe{
+    left:0;
+    top:0;
+    margin-bottom: 0;
+    height:16rem;
+    width:16rem;
+    
+    }
